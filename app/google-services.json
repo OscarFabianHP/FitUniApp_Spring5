@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823931333140",
+    "project_id": "fituni-spring5",
+    "storage_bucket": "fituni-spring5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823931333140:android:2420728206fc8a15a79501",
+        "android_client_info": {
+          "package_name": "co.edu.unab.fituni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823931333140-hokasjmg9neci3jta9cho4nsmeua8bnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFmOYmMX2SbAyGZ61zi6qq6vRRpNMvYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823931333140-hokasjmg9neci3jta9cho4nsmeua8bnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
